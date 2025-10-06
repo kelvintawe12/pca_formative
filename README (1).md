@@ -1,12 +1,12 @@
 # PCA Assignment: Waste Management in Africa
-Peer Pair Number: [Your_Pair_Number]  
-Student: [Your_Name]  
-GitHub Repo: https://github.com/[Your_GitHub_Username]/pca-waste-assignment
+
+Student: kelvin tawe 
+GitHub Repo: https://github.com/kelvintawe12/pca_formative.git
 
 This repository contains the implementation of Principal Component Analysis (PCA) on the What a Waste Global Dataset, filtered to African countries, focusing on waste management metrics (e.g., waste generation, % recycled, % landfilled).
 
 ## Installation
-1. Clone the repo: `git clone https://github.com/[Your_GitHub_Username]/pca-waste-assignment`
+1. Clone the repo: `
 2. Install dependencies: `pip install numpy pandas matplotlib`
 3. The PCA library is in `mypca.py`.
 
